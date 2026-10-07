@@ -68,97 +68,97 @@ The following commercial managed document database platforms are sorted by **Com
 
 The open-source ecosystem provides powerful document stores, offline synchronization engines, and Backend-as-a-Service (BaaS) platforms. 
 
-All open-source repositories below are sorted strictly by **GitHub Star Counts (Descending)**:
+All open-source repositories below are sorted strictly by **GitHub Stars_Counts (Descending)**:
 
-1. **[Supabase](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+1. **[Supabase](https://github.com/supabase/supabase)** [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
    **The Open-Source Firebase Alternative** *(License: Apache-2.0)*  
    PostgreSQL-backed platform featuring native JSONB document columns, real-time change subscriptions, built-in Auth, serverless Edge Functions, and vector search.
 
-2. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+2. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    **Open-Source Airtable Alternative** *(License: AGPL-3.0)*  
    Transforms any relational database into a smart spreadsheet, providing structured document storage with grid, gallery, kanban views, and instant REST/GraphQL APIs.
 
-3. **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
+3. **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
    **Open-Source Realtime Backend in 1 File** *(License: MIT)*  
    Single-file Go executable embedding an SQLite database with JSON document support, real-time subscription websockets, auth management, and admin UI.
 
-4. **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)  
+4. **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)  
    **Ultra-Fast Open-Source Document Search Engine** *(License: MIT)*  
    Lightning-fast, typo-tolerant search engine API optimized for indexing and retrieving semi-structured JSON documents with instantaneous results.
 
-5. **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
+5. **[Appwrite](https://github.com/appwrite/appwrite)** [![GitHub_Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
    **Open-Source Backend-as-a-Service Platform** *(License: BSD-3-Clause)*  
    Complete developer platform offering DocumentsDB for schema-free JSON document storage, authentication, object storage, serverless functions, and vector search.
 
-6. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+6. **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    **Open-Source Headless CMS & Data Platform** *(License: BSL-1.1)*  
    Provides instant REST and GraphQL APIs over any SQL database with flexible JSON document fields, access permissions, and a customizable admin interface.
 
-7. **[SurrealDB](https://github.com/surrealdb/surrealdb)** [![GitHub stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=social&color=white)](https://github.com/surrealdb/surrealdb/stargazers)  
+7. **[SurrealDB](https://github.com/surrealdb/surrealdb)** [![GitHub_Stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=social&color=white)](https://github.com/surrealdb/surrealdb/stargazers)  
    **Multi-Model Document-Graph Database** *(License: BSL-1.1)*  
    Cloud-native database combining document, graph, key-value, and vector capabilities into a single engine with real-time SurrealQL queries.
 
-8. **[MongoDB Community Edition](https://github.com/mongodb/mongo)** [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo?style=social&color=white)](https://github.com/mongodb/mongo/stargazers)  
+8. **[MongoDB Community Edition](https://github.com/mongodb/mongo)** [![GitHub_Stars](https://img.shields.io/github/stars/mongodb/mongo?style=social&color=white)](https://github.com/mongodb/mongo/stargazers)  
    **The Original Document Database Leader** *(License: SSPL)*  
    The industry-standard NoSQL document store featuring flexible JSON-like BSON documents, a rich aggregation pipeline, sharding, and replica set high availability.
 
-9. **[RethinkDB](https://github.com/rethinkdb/rethinkdb)** [![GitHub stars](https://img.shields.io/github/stars/rethinkdb/rethinkdb?style=social&color=white)](https://github.com/rethinkdb/rethinkdb/stargazers)  
+9. **[RethinkDB](https://github.com/rethinkdb/rethinkdb)** [![GitHub_Stars](https://img.shields.io/github/stars/rethinkdb/rethinkdb?style=social&color=white)](https://github.com/rethinkdb/rethinkdb/stargazers)  
    **Real-Time Document Database** *(License: Apache-2.0)*  
    Distributed document database designed for real-time web applications, pushing changefeed query updates straight to clients as JSON data changes.
 
-10. **[Typesense](https://github.com/typesense/typesense)** [![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)  
+10. **[Typesense](https://github.com/typesense/typesense)** [![GitHub_Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)  
     **Open-Source Algolia Alternative** *(License: GPL-3.0)*  
     Fast, in-memory document search engine built from the ground up for typo tolerance, instant search, and intuitive faceted filtering over JSON documents.
 
-11. **[RxDB](https://github.com/pubkey/rxdb)** [![GitHub stars](https://img.shields.io/github/stars/pubkey/rxdb?style=social&color=white)](https://github.com/pubkey/rxdb/stargazers)  
+11. **[RxDB](https://github.com/pubkey/rxdb)** [![GitHub_Stars](https://img.shields.io/github/stars/pubkey/rxdb?style=social&color=white)](https://github.com/pubkey/rxdb/stargazers)  
     **Local-First Offline-First Reactive Database** *(License: Apache-2.0)*  
     Reactive JavaScript document database for browsers, Node.js, and mobile apps that automatically synchronizes state with backend document stores.
 
-12. **[lowdb](https://github.com/typicode/lowdb)** [![GitHub stars](https://img.shields.io/github/stars/typicode/lowdb?style=social&color=white)](https://github.com/typicode/lowdb/stargazers)  
+12. **[lowdb](https://github.com/typicode/lowdb)** [![GitHub_Stars](https://img.shields.io/github/stars/typicode/lowdb?style=social&color=white)](https://github.com/typicode/lowdb/stargazers)  
     **Minimalist Local JSON Database** *(License: MIT)*  
     Zero-dependency, small JSON file database ideal for Node.js scripts, electron apps, and lightweight embedded local state storage.
 
-13. **[PouchDB](https://github.com/pouchdb/pouchdb)** [![GitHub stars](https://img.shields.io/github/stars/pouchdb/pouchdb?style=social&color=white)](https://github.com/pouchdb/pouchdb/stargazers)  
+13. **[PouchDB](https://github.com/pouchdb/pouchdb)** [![GitHub_Stars](https://img.shields.io/github/stars/pouchdb/pouchdb?style=social&color=white)](https://github.com/pouchdb/pouchdb/stargazers)  
     **Pocket-Sized Sync Database** *(License: Apache-2.0)*  
     In-browser JavaScript database engineered to run offline inside web applications and continuously replicate with Apache CouchDB.
 
-14. **[ArangoDB Community](https://github.com/arangodb/arangodb)** [![GitHub stars](https://img.shields.io/github/stars/arangodb/arangodb?style=social&color=white)](https://github.com/arangodb/arangodb/stargazers)  
+14. **[ArangoDB Community](https://github.com/arangodb/arangodb)** [![GitHub_Stars](https://img.shields.io/github/stars/arangodb/arangodb?style=social&color=white)](https://github.com/arangodb/arangodb/stargazers)  
     **Native Multi-Model Engine** *(License: Apache-2.0)*  
     Combines documents, graph networks, and key-value stores within a unified core engine operated by the SQL-like AQL query language.
 
-15. **[NeDB](https://github.com/louischatriot/nedb)** [![GitHub stars](https://img.shields.io/github/stars/louischatriot/nedb?style=social&color=white)](https://github.com/louischatriot/nedb/stargazers)  
+15. **[NeDB](https://github.com/louischatriot/nedb)** [![GitHub_Stars](https://img.shields.io/github/stars/louischatriot/nedb?style=social&color=white)](https://github.com/louischatriot/nedb/stargazers)  
     **Embedded JavaScript Document Store** *(License: MIT)*  
     Embedded document database for Node.js, NW.js, and Electron implementing a subset of MongoDB's API for local file persistence.
 
-16. **[WatermelonDB](https://github.com/Nozbe/WatermelonDB)** [![GitHub stars](https://img.shields.io/github/stars/Nozbe/WatermelonDB?style=social&color=white)](https://github.com/Nozbe/WatermelonDB/stargazers)  
+16. **[WatermelonDB](https://github.com/Nozbe/WatermelonDB)** [![GitHub_Stars](https://img.shields.io/github/stars/Nozbe/WatermelonDB?style=social&color=white)](https://github.com/Nozbe/WatermelonDB/stargazers)  
     **High-Performance React Native Database** *(License: MIT)*  
     Reactive database framework for React Native & React web apps designed to render tens of thousands of document records lazily without UI lag.
 
-17. **[FerretDB](https://github.com/FerretDB/FerretDB)** [![GitHub stars](https://img.shields.io/github/stars/FerretDB/FerretDB?style=social&color=white)](https://github.com/FerretDB/FerretDB/stargazers)  
+17. **[FerretDB](https://github.com/FerretDB/FerretDB)** [![GitHub_Stars](https://img.shields.io/github/stars/FerretDB/FerretDB?style=social&color=white)](https://github.com/FerretDB/FerretDB/stargazers)  
     **Open-Source MongoDB Replacement** *(License: Apache-2.0)*  
     Open-source MongoDB-compatible database proxy backed by PostgreSQL (using DocumentDB extension) or SQLite, allowing standard MongoDB driver compatibility without SSPL license lock-in.
 
-18. **[LiteDB](https://github.com/litedb-org/LiteDB)** [![GitHub stars](https://img.shields.io/github/stars/litedb-org/LiteDB?style=social&color=white)](https://github.com/litedb-org/LiteDB/stargazers)  
+18. **[LiteDB](https://github.com/litedb-org/LiteDB)** [![GitHub_Stars](https://img.shields.io/github/stars/litedb-org/LiteDB?style=social&color=white)](https://github.com/litedb-org/LiteDB/stargazers)  
     **Embedded .NET NoSQL Document Store** *(License: MIT)*  
     Lightweight, single-file embedded BSON document database for .NET applications with thread-safe ACID operations and indexing.
 
-19. **[Apache CouchDB](https://github.com/apache/couchdb)** [![GitHub stars](https://img.shields.io/github/stars/apache/couchdb?style=social&color=white)](https://github.com/apache/couchdb/stargazers)  
+19. **[Apache CouchDB](https://github.com/apache/couchdb)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/couchdb?style=social&color=white)](https://github.com/apache/couchdb/stargazers)  
     **Offline-First Sync Engine** *(License: Apache-2.0)*  
     Document database equipped with a RESTful HTTP/JSON API, JavaScript Map/Reduce views, and fault-tolerant multi-primary sync capabilities.
 
-20. **[LokiJS](https://github.com/techfort/LokiJS)** [![GitHub stars](https://img.shields.io/github/stars/techfort/LokiJS?style=social&color=white)](https://github.com/techfort/LokiJS/stargazers)  
+20. **[LokiJS](https://github.com/techfort/LokiJS)** [![GitHub_Stars](https://img.shields.io/github/stars/techfort/LokiJS?style=social&color=white)](https://github.com/techfort/LokiJS/stargazers)  
     **Fast In-Memory JavaScript Database** *(License: MIT)*  
     In-memory document store prioritizing query performance for Node.js, Cordova, and browser single-page applications.
 
-21. **[OrientDB Community](https://github.com/orientechnologies/orientdb)** [![GitHub stars](https://img.shields.io/github/stars/orientechnologies/orientdb?style=social&color=white)](https://github.com/orientechnologies/orientdb/stargazers)  
+21. **[OrientDB Community](https://github.com/orientechnologies/orientdb)** [![GitHub_Stars](https://img.shields.io/github/stars/orientechnologies/orientdb?style=social&color=white)](https://github.com/orientechnologies/orientdb/stargazers)  
     **Multi-Model Graph & Document DB** *(License: Apache-2.0)*  
     Distributed multi-model database supporting ACID transactions, graph edge relationships, and full-text search.
 
-22. **[RavenDB](https://github.com/ravendb/ravendb)** [![GitHub stars](https://img.shields.io/github/stars/ravendb/ravendb?style=social&color=white)](https://github.com/ravendb/ravendb/stargazers)  
+22. **[RavenDB](https://github.com/ravendb/ravendb)** [![GitHub_Stars](https://img.shields.io/github/stars/ravendb/ravendb?style=social&color=white)](https://github.com/ravendb/ravendb/stargazers)  
     **Transactional NoSQL Document Engine** *(License: AGPL-3.0)*  
     Fully ACID-compliant document store featuring automatic indexing, full-text search queries, and distributed cluster topology.
 
-23. **[DocumentDB Extension](https://github.com/documentdb/documentdb)** [![GitHub stars](https://img.shields.io/github/stars/documentdb/documentdb?style=social&color=white)](https://github.com/documentdb/documentdb/stargazers)  
+23. **[DocumentDB Extension](https://github.com/documentdb/documentdb)** [![GitHub_Stars](https://img.shields.io/github/stars/documentdb/documentdb?style=social&color=white)](https://github.com/documentdb/documentdb/stargazers)  
     **PostgreSQL Document Storage Extension** *(License: PostgreSQL License)*  
     Brings native BSON datatypes, MongoDB query primitives, and document storage directly inside PostgreSQL databases.
 
@@ -178,7 +178,7 @@ All open-source repositories below are sorted strictly by **GitHub Star Counts (
 Contributions are warmly welcome! If you know of a managed document database platform or open-source project that should be listed:
 
 1. **Fork** this repository.
-2. Add your entry to `README.md` keeping formatting consistent (include name, links, description, licensing, pricing, and exact star badges).
+2. Add your entry to `README.md` keeping formatting consistent (include name, links, description, licensing, pricing, and exact Stars_Badges).
 3. Open a **Pull Request** with a clear explanation of the addition.
 
 ---
